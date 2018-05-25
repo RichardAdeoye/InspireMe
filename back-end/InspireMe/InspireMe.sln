@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspireMe", "InspireMe\InspireMe.csproj", "{77D99D58-8E62-40FA-BA3E-DFC257271C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspireMe.Tests", "InspireMe.Tests\InspireMe.Tests.csproj", "{B5116EDC-C438-4380-88F1-2DEC9223509D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D99D58-8E62-40FA-BA3E-DFC257271C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D99D58-8E62-40FA-BA3E-DFC257271C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D99D58-8E62-40FA-BA3E-DFC257271C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D99D58-8E62-40FA-BA3E-DFC257271C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5116EDC-C438-4380-88F1-2DEC9223509D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5116EDC-C438-4380-88F1-2DEC9223509D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5116EDC-C438-4380-88F1-2DEC9223509D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5116EDC-C438-4380-88F1-2DEC9223509D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88AC6215-3E90-4800-9852-1180DD4181E7}
+	EndGlobalSection
+EndGlobal
